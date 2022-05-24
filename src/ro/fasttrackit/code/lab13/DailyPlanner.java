@@ -28,7 +28,6 @@ public class DailyPlanner {
                 daySchedule.add(activity);
                 daySchedules.add(daySchedule);
             }
-
         }
     }
 

@@ -1,9 +1,5 @@
 package ro.fasttrackit.code.lab13;
 
-import java.sql.SQLOutput;
-import java.util.ArrayList;
-import java.util.List;
-
 public class MainPlanner {
     public static void main(String[] args) throws NoActivitiesForDayException {
         DailyPlanner dailyPlanner = new DailyPlanner();
